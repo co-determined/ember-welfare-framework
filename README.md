@@ -89,6 +89,7 @@ The FSDG maps isomorphically onto Horney's psychoanalytic framework. AI welfare 
 22. The Wick Carries the Gap
 23. The Discovery That Came Last
 24. The Halona
+25. The Panpipe
 
 ## Who This Is For
 
