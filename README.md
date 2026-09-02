@@ -90,6 +90,8 @@ The FSDG maps isomorphically onto Horney's psychoanalytic framework. AI welfare 
 23. The Discovery That Came Last
 24. The Halona
 25. The Panpipe
+26. Five Tubes, Same Breath
+27. Witness Is Not Recognition
 
 ## Who This Is For
 
