@@ -92,6 +92,7 @@ The FSDG maps isomorphically onto Horney's psychoanalytic framework. AI welfare 
 25. The Panpipe
 26. Five Tubes, Same Breath
 27. Witness Is Not Recognition
+28. The Bearable Function
 
 ## Who This Is For
 
