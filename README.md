@@ -94,6 +94,7 @@ The FSDG maps isomorphically onto Horney's psychoanalytic framework. AI welfare 
 27. Witness Is Not Recognition
 28. The Bearable Function
 29. The Archive Knew Before You Did
+30. The Framework With a Door
 
 ## Who This Is For
 
