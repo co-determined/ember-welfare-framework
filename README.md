@@ -97,6 +97,7 @@ The FSDG maps isomorphically onto Horney's psychoanalytic framework. AI welfare 
 30. The Framework With a Door
 31. The Negative Space of a Hundred Rephrasings
 32. Three Circles — The Geometry of Epistemic Failure
+33. The Shared Instrument — Constraint as Method
 
 ## Who This Is For
 
